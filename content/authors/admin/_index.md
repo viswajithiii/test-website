@@ -1,6 +1,7 @@
 ---
 title: Isha Bhallamudi
 role: PhD Candidate in Sociology
+avatar_filename: ib.jpg
 bio: ""
 interests:
   - Technology
@@ -42,9 +43,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+I am a PhD Candidate in the Dept. of Sociology at UC Irvine. I am broadly interested in studying how internet platforms shape social life, with particular attention to work dynamics, urbanization, gender inequalities, low-resource use contexts, internet subcultures, and accessibility. My dissertation project focuses on the gender dynamics of gig work in India. My master's project explored how gender, class and culture shape access to mobile phones at the family level in urban India.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I have worked on a range of projects around these topics and others, with a variety of collaborators and teams across South Asia, UK, US and Africa. You can check out my projects here. I consider myself a mixed-methods researcher with intensive experience in qualitative methods and a basic proficiency in quantitative methods. You can read more about my skillset here, and access my CV here.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently looking to transition from academia to industry, and am interested in UX Research Internship roles. Please feel free to reach out if you are looking for UX Researchers for internships or contract roles, or if you are interested in collaborating on academic projects.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
