@@ -1,5 +1,5 @@
 ---
-title: "Doing participative research: What is needed to make it work?  "
+title: "Methods for conducting participative research: Strengths and Limitations"
 publication_types:
   - "0"
 authors:
