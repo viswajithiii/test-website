@@ -1,10 +1,9 @@
 ---
-widget: about
-widget_id: About
+widget: custom_about
+weight: 30
 headless: true
-weight: 20
-title: ""
 active: true
 author: admin
 ---
-Isha Bhallamudi is a PhD Candidate in Sociology at the University of California Irvine.
+
+CONTENT
