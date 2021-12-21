@@ -1,7 +1,6 @@
 ---
 title: Isha Bhallamudi
 role: PhD Candidate in Sociology
-avatar_filename: ib.jpg
 bio: ""
 interests:
   - Technology
@@ -45,8 +44,8 @@ highlight_name: true
 ---
 I am a PhD Candidate in the Dept. of Sociology at UC Irvine. I am broadly interested in studying how internet platforms shape social life, with particular attention to work dynamics, urbanization, gender inequalities, low-resource use contexts, internet subcultures, and accessibility. 
 
-I have worked on a range of projects around these topics and others, with a variety of collaborators and teams across South Asia, UK, US and Africa. You can check out my projects [here](https://isha-demo.netlify.app/#projects). I consider myself a mixed-methods researcher with intensive experience in qualitative methods and a basic proficiency in quantitative methods. You can read more about my skillset here, and access my CV here.
+I have worked on a range of projects around these topics and others, with a variety of collaborators and teams across South Asia, UK, US and Africa. You can check out my projects [here](/#projects). I consider myself a mixed-methods researcher with intensive experience in qualitative methods and a basic proficiency in quantitative methods. You can read more about my skillset here, and access my CV here.
 
 I am currently looking to transition from academia to industry, and am interested in UX Research roles. Please feel free to reach out if you are looking to hire UX researchers for internships or contract roles, or if you are interested in collaborating on research projects.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
