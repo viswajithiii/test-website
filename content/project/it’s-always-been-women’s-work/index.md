@@ -5,8 +5,18 @@ subtitle: Tracing Gender, Technology and Urbanization in India Through an
 date: 2022-01-08T05:16:18.031Z
 draft: false
 featured: false
+authors:
+  - Isha Bhallamudi
+tags:
+  - Gig Work
+  - AI
+  - Gender
+  - Urbanization
+  - Digital Labor
+  - Inequality
+  - India
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
