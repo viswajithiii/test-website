@@ -1,7 +1,7 @@
 ---
-title: Girls, Gadgets and Gatekeepers
-subtitle: How Gender and Class Aspirations Shape Adolescent Access to Mobile
-  Phones in Mumbai, India
+title: "Girls, Gadgets and Gatekeepers: How Gender and Class Aspirations Shape
+  Adolescent Access to Mobile Phones in Mumbai, India"
+subtitle: "Methods: Interviews, Surveys"
 date: 2022-01-08T05:09:10.942Z
 draft: false
 featured: false
