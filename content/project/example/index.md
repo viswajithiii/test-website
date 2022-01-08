@@ -8,7 +8,7 @@ authors:
 url_video: ""
 date: 2021-12-15T08:41:00.583Z
 categories: []
-external_link: https://arxiv.org/abs/1906.10256
+external_link: ""
 url_slides: ""
 title: Good Secretaries, Bad Truck Drivers?
 subtitle: Occupational Gender Stereotypes in Sentiment Analysis
