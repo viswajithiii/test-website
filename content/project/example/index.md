@@ -3,28 +3,29 @@ slides: example
 url_pdf: ""
 summary: ""
 authors:
-  - AshleyTorres
-  - StevenSchmidt
-  - AmyLiu
-  - KristinTurney
+  - Jayadev Bhaskaran
+  - Isha Bhallamudi
 url_video: ""
 date: 2021-12-15T08:41:00.583Z
-external_link: ""
+categories: []
+external_link: https://arxiv.org/abs/1906.10256
 url_slides: ""
-title: Intergenerational Consequences of Paternal Incarceration
-subtitle: How families manage the burdens of incarceration management
+title: Good Secretaries, Bad Truck Drivers?
+subtitle: Occupational Gender Stereotypes in Sentiment Analysis
 tags:
   - Gender
-  - CognitiveLabor
-  - Family
-  - Incarceration
-  - Management
+  - Occupations
+  - Sentiment Analysis Models
 links: []
 image:
   caption: ""
   focal_point: ""
 url_code: ""
 ---
-Methods:
+<!--StartFragment-->
 
-Findings:
+This project investigated the presence of occupational gender stereotypes in sentiment analysis models. Such a task has implications for reducing implicit biases in these models, which are being applied to an increasingly wide variety of downstream tasks. We released a new gender-balanced dataset of 800 sentences pertaining to specific professions and proposed a methodology for using it as a test bench to evaluate sentiment analysis models. We evaluated the presence of occupational gender stereotypes in 3 different models using our approach, and explored their relationship with societal perceptions of occupations.
+
+
+
+<!--EndFragment-->
