@@ -10,8 +10,9 @@ date: 2021-12-15T08:41:00.583Z
 categories: []
 external_link: ""
 url_slides: ""
-title: Good Secretaries, Bad Truck Drivers?
-subtitle: Occupational Gender Stereotypes in Sentiment Analysis
+title: Good Secretaries, Bad Truck Drivers? Occupational Gender Stereotypes in
+  Sentiment Analysis
+subtitle: ""
 tags:
   - Gender
   - Occupations
