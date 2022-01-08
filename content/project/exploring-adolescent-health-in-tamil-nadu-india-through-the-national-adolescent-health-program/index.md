@@ -1,7 +1,8 @@
 ---
-title: Exploring Adolescent Health in Tamil Nadu, India Through the National
-  Adolescent Health Program
-subtitle: Where Do Implementation Status and Access to Healthcare Stand?
+title: "Evaluating Public Healthcare for Adolescents in Tamil Nadu, India: Where
+  Does Affordable Access to Healthcare Stand?"
+subtitle: "Methods: Literature Review, Surveys, Interviews, Focus Group
+  Discussions, Field Observation, Policy Analysis"
 date: 2017-05-02T03:38:31.589Z
 draft: false
 featured: false
