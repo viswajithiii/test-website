@@ -1,6 +1,6 @@
 ---
-title: Diverse Belongings
-subtitle: How Social Networks Shape Belongingness for Law Students
+title: "Diverse Belongings: How Social Networks Shape Belongingness for Law Students"
+subtitle: ""
 date: 2022-01-08T04:53:29.619Z
 draft: false
 featured: false
