@@ -1,7 +1,8 @@
 ---
-title: It’s Always Been Women’s Work
-subtitle: Tracing Gender, Technology and Urbanization in India Through an
-  Account of Algorithmically-Mediated Work
+title: "It’s Always Been Women’s Work: Tracing Gender, Technology and
+  Urbanization in India Through an Account of Algorithmically-Mediated Work"
+subtitle: "Methods: Ethnography, Particpant Observation, Interviews, Focus Group
+  Discussions and Archival Research"
 date: 2022-01-08T05:16:18.031Z
 draft: false
 featured: false
