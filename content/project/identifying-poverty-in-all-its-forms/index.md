@@ -1,6 +1,7 @@
 ---
-title: " Identifying Poverty in All Its Forms"
-subtitle: Determining the Dimensions of Poverty Through Merging of Knowledge
+title: "Poverty in All Its Forms: Determining the Dimensions of Poverty Through
+  Merging of Knowledge"
+subtitle: "Methods: Literature Reviews, Interviews and Design Workshops"
 date: 2022-01-08T04:40:57.892Z
 draft: false
 featured: false
