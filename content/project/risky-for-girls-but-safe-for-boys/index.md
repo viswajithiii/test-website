@@ -1,6 +1,7 @@
 ---
-title: Risky for Girls But Safe for Boys
-subtitle: Mobile Phones, Youth Subcultures, and the Social Reproduction of Gender
+title: "Risky for Girls But Safe for Boys: Mobile Phones, Youth Subcultures, and
+  the Social Reproduction of Gender"
+subtitle: "Methods: Literature Reviews, Focus Group Discussions"
 date: 2022-01-08T03:21:42.708Z
 draft: false
 featured: false
