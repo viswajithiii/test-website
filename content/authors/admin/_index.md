@@ -1,6 +1,7 @@
 ---
 title: Isha Bhallamudi
 role: PhD Candidate in Sociology
+avatar_filename: img_8282.jpg
 bio: ""
 interests:
   - Technology
