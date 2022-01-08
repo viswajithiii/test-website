@@ -5,10 +5,9 @@ publication_types:
   - "2"
 authors:
   - Isha Bhallamudi
-publication: "(Invited for a Special Issue; Under Review) Bhallamudi, I. ‘Girls,
-  Gadgets and Gatekeepers: How Gender and Class Shape Inequalities in
-  Adolescents’ Access to Technology in Mumbai, India’. Information,
-  Communication and Society."
+publication: "(Forthcoming) Bhallamudi, I. ‘Girls, Gadgets and Gatekeepers: How
+  Gender and Class Shape Inequalities in Adolescents’ Access to Technology in
+  Mumbai, India’. Information, Communication and Society."
 abstract: >-
   Within a patriarchal, caste-based and restrictive family setup, how do gender
   and class work together to shape adolescent girls’ access to mobile phones in
