@@ -95,7 +95,7 @@
     {{ end }}
 
     {{ with $person.education }}
-    <div class="col-md-4">
+    <div class="col-md-3">
       <div class="section-subheading">{{ i18n "education" | markdownify }}</div>
       <ul class="ul-edu fa-ul mb-0">
         {{ range .courses }}
@@ -110,14 +110,24 @@
       </ul>
     </div>
     {{ end }}
-  <div class="col-md-5">
-    <div class="section-subheading">Talks and News</div>
+  <div class="col-md-6">
+    <div class="section-subheading">News</div>
     <ul class="ul-interests mb-0">
       <li>
-         First talk where I explained something cool
+        <b>Dec 20:</b> I received the <a href="https://ucinoyce.org/">Noyce Fellowship</a> in AI, Law and Society from UC Irvine.
       </li>
       <li>
-        Second bit of news about me where I did something noteworthy
+        <b>Dec 15:</b>
+        I am joining the NSF-funded project, <a href="https://cahssa.ucsb.edu/about/">California Alliance for Hispanic-Serving Social Science Advancement</a>, as a graduate researcher.
+      </li>
+      <li>
+        <b>Nov 19:</b>
+      A paper on digital inequality during the Covid-19 pandemic (with co-authors Brooke Dinsmore, Anne Jonas, Michael Miner, Sarah Outland, Cassidy Puckett,
+      and Matt Rafalow) got accepted to the Sociology of Education Association Annual Meeting.
+      </li>
+      <li>
+        <b>Nov 18:</b> My <a href="https://ohrh.law.ox.ac.uk/gender-parity-in-india-what-a-case-of-accidental-feminism-can-offer/">
+        article on gender parity in India</b> was published in the Oxford Human Rights Hub blog.
       </li>
     </ul>
   </div>

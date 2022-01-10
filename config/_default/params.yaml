@@ -6,7 +6,7 @@
 # Appearance
 
 theme: minimal
-day_night: true
+day_night: false
 font: ''
 font_size: L
 
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: isha.b@uci.edu
 
 # Site header
 
