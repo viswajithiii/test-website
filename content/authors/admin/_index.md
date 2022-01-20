@@ -5,11 +5,12 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Technology
+  - Wellbeing
   - Work
   - Gender
-  - Culture
   - Inequality
   - Accessibility
+  - Culture
   - South Asia
 social:
   - icon: envelope
