@@ -44,9 +44,11 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I study how internet platforms shape social life, with particular attention to gender, technology, work, accessibility, wellbeing, and culture in the Global South. My dissertation project examines the gender dynamics of platform work in India, with a focus on organizational cultures, intersectional inequalities, and strategies of resistance against algorithmic control. It is based on a mixed-methods study with over 175 gig workers, platform managers and union organizers in Mumbai. I am deeply invested in applying historical-comparative and interdisciplinary perspectives to platform research, including showing how platform work today marks a return to some of the core features of previous work paradigms. 
+Hi there!
 
-I am proficient in range of qualitative and quantitive methods, with particular interest in community-based, participatory and mixed-methods approaches. I have worked on a range of projects around my topics of interest, with a variety of collaborators and teams across South Asia, UK, US and Africa. You can check out my projects [here](/#projects). 
+My name is Isha and I am a Sociology PhD Candidate at UC Irvine. I study how internet platforms shape work and social life, with particular attention to gender, technology, work, wellbeing, and culture in Majority Worlds. I am proficient in range of qualitative and quantitive methods, with particular interest in community-based and participatory approaches. I have worked on a range of projects around these topics and others, with a variety of collaborators and teams across South Asia, UK, US and Africa. You can check out my projects [here](/#projects). 
+
+My dissertation project examines the gender dynamics of platform work in India, with a focus on organizational cultures, intersectional inequalities, and strategies of resistance against algorithmic control. It is a mixed-methods study with over 175 gig workers, platform managers and union organizers in Mumbai. I am deeply invested in applying historical-comparative and interdisciplinary perspectives to platform research, including showing how platform work today marks a return to some of the core features of previous work paradigms.
 
 I am on the job market, looking for post-doc roles starting Summer 2024. Please get in touch if you have openings!
 
