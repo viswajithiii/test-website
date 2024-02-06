@@ -5,13 +5,13 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Technology
-  - Work
+  - AI-mediated work
   - Gender
   - Inequality
-  - Wellbeing
+  - Accessibility
   - Development
   - Culture
-  - Majority Worlds
+  - Majority World contexts
 social:
   - icon: envelope
     icon_pack: fas
@@ -46,11 +46,11 @@ highlight_name: true
 ---
 Hi there!
 
-My name is Isha and I am a Sociology PhD Candidate at UC Irvine. I study how internet platforms shape work and social life, with particular attention to gender, technology, work, wellbeing, and culture in Majority Worlds. I am proficient in range of qualitative and quantitive methods, with particular interest in community-based and participatory approaches. I have worked on a range of projects around these topics and others, with a variety of collaborators and teams across South Asia, UK, US and Africa. You can check out my projects [here](/#projects). 
+My name is Isha and I am a Sociology PhD Candidate at UC Irvine. I study how AI-mediated platforms shape work, social life, and wellbeing, with particular attention to gender, accessibility, inequality, development, and culture in Majority World contexts. I am proficient in range of qualitative and quantitive methods, with particular interest in community-based and participatory approaches. I have worked on a range of projects around these topics and others, with a variety of collaborators and teams across South Asia, UK, US and Sub-Saharan Africa. You can check out some of my projects [here](/#projects). 
 
-My dissertation project examines the gender dynamics of platform work in India, with a focus on organizational cultures, intersectional inequalities, and strategies of resistance against algorithmic control. It is a mixed-methods study with over 175 gig workers, platform managers and union organizers in Mumbai. I am deeply invested in applying historical-comparative and interdisciplinary perspectives to platform research, including showing how platform work today marks a return to some of the core features of previous work paradigms.
+My dissertation project examines the implications of AI-mediated platform work in India through the lived experiences of women workers, with a focus on organizational cultures, intersectional inequalities, and strategies of resistance against algorithmic control. It is a mixed-methods study with over 175 gig workers, platform managers and union organizers in Mumbai. I am deeply invested in applying historical-comparative and interdisciplinary perspectives to platform research, in order to assess and mitigate the potential harms of AI technologies.
 
-I am on the job market, looking for post-doc roles starting Summer 2024. Please get in touch if you have openings!
+I am on the job market, interested in post-doc roles and suitable industry positions starting Summer 2024. Please get in touch if you have openings!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 
