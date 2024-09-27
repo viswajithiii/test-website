@@ -1,17 +1,17 @@
 ---
-title: Isha Bhallamudi
-role: PhD Candidate in Sociology
+title: Dr. Isha Bhallamudi
+role: Postdoctoral Fellow, Stanford University
 avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Technology
-  - AI-mediated work
+  - Platforms
   - Gender
+  - Work
   - Inequality
-  - Accessibility
   - Development
   - Culture
-  - Majority World contexts
+  - Majority Worlds
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,9 +22,6 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=xidE1a8AAAAJ&hl=en&oi=ao
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/IshaB
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/isha-bhallamudi-3a77b5b1/
@@ -33,7 +30,7 @@ education:
   courses:
     - course: PhD in Sociology
       institution: University of California Irvine
-      year: Exp. 2024
+      year: 2024
     - course: MA in Demographic and Social Analysis
       institution: University of California Irvine
       year: 2021
@@ -46,11 +43,11 @@ highlight_name: true
 ---
 Hi there!
 
-My name is Isha and I am a Sociology PhD Candidate at UC Irvine. I study how AI-mediated platforms shape work, social life, and wellbeing, with particular attention to gender, accessibility, inequality, development, and culture in Majority World contexts. I am proficient in a range of qualitative and quantitive methods, with particular interest in community-based and participatory approaches. I have worked on a range of projects around these topics and others, with a variety of collaborators and teams across South Asia, UK, US and Sub-Saharan Africa. You can check out some of my projects [here](/#projects). 
+My name is Isha and I am a Postdoctoral Fellow at the Digital Civil Society Lab at Stanford University. I have a PhD in Sociology from UC Irvine and an MA in Development Studies from IIT Madras. I study how AI-mediated platforms shape work, social life, and wellbeing, with particular attention to gender, accessibility, inequality, development, and culture in Majority World contexts. I am proficient in a range of qualitative and quantitive methods, with particular interest in community-based and participatory approaches. I have worked on a range of projects around these topics and others, with a variety of collaborators and teams across South Asia, UK, US and Sub-Saharan Africa. You can check out some of my projects [here](/#projects). 
 
-My dissertation project examines the implications of AI-mediated platform work in India through the lived experiences of women workers, with a focus on organizational cultures, intersectional inequalities, and strategies of resistance against algorithmic control. It is a mixed-methods study with over 175 gig workers, platform managers and union organizers in Mumbai. I am deeply invested in applying historical-comparative and interdisciplinary perspectives to platform research, in order to assess and mitigate the potential harms of AI technologies.
+I am currently working on a book based on my dissertation project, which examined the gender dynamics of platform work in India. Other ongoing projects explore new forms of algorithmic management in beauty platforms, women's access to work in contemporary India, and how Indian immigrant tech workers shape work cultures in Silicon Valley. I am deeply invested in applying historical-comparative and interdisciplinary perspectives to platform research, in order to assess and mitigate the potential harms of AI technologies.
 
-I am on the job market, interested in post-doc roles and suitable industry positions starting Summer 2024. Please get in touch if you have openings!
+Going forward, I am looking for jobs that let me combine academic research with industry impact, and am open to non-traditional teams and organizations. Please get in touch if you have openings!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 
